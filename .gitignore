@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Env
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
